@@ -1,12 +1,14 @@
 # PracticaFW1
-Numero de control:19120075
+Numero de control:
 
-Nombre:Luis Alberto Corona Pimentel
+Nombre:
 
-Curp:COPLOOO712HOCRMSA5
+Curp:
 
-Domicilio:Colonia San isidro Vista Hermosa Santigo Miahuatlan
+Domicilio:
 
-Numero de Contacto:2381286313
+Numero de Contacto:
 
-Correo Institucional:19120075@ajalpan.tecnm.mx
+Correo Institucional:
+
+Esta es la rama 2
