@@ -1,7 +1,7 @@
 # PracticaFW1
 Números de control:
 
-Nofmbre:
+Nombre:
 
 CURP:
 
