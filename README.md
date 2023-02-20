@@ -1,9 +1,14 @@
 # PracticaFW1
+Numero de control:
 
+Nombre:
 
+Curp:
 
-Este es el espacio Reservado para cuando funciones una rama 
+Domicilio:
 
+Numero de Contacto:
 
+Correo Institucional:
 
-
+Esta es la rama 2
