@@ -1,15 +1,13 @@
 # PracticaFW1
+Números de control:
 
-Numero de control:
+Nofmbre:
 
-Nombre:
-
-Curp:
+CURP:
 
 Domicilio:
 
-Numero de Contacto:
+números de Contacto:
 
 Correo Institucional:
 
-Esta es la rama 1
